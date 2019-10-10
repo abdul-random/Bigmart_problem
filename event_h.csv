@@ -1,0 +1,100 @@
+Year,Month,DayCategory,Federal Holiday,Events
+2009,1,Federal Holiday,2,0
+2009,2,Federal Holiday,1,0
+2009,5,Federal Holiday,1,0
+2009,7,Federal Holiday,2,0
+2009,9,Federal Holiday,1,0
+2009,10,Federal Holiday,1,0
+2009,11,Federal Holiday,2,0
+2009,12,Federal Holiday,1,0
+2010,1,Federal Holiday,2,0
+2010,2,Federal Holiday,1,0
+2010,5,Federal Holiday,1,0
+2010,7,Federal Holiday,2,0
+2010,9,Federal Holiday,1,0
+2010,10,Federal Holiday,1,0
+2010,11,Federal Holiday,2,0
+2010,12,Federal Holiday,3,0
+2011,1,Federal Holiday,2,0
+2011,2,Federal Holiday,1,0
+2011,5,Federal Holiday,1,0
+2011,7,Federal Holiday,1,0
+2011,9,Federal Holiday,1,0
+2011,10,Federal Holiday,1,0
+2011,11,Federal Holiday,2,0
+2011,12,Federal Holiday,2,0
+2012,1,Federal Holiday,3,0
+2012,2,Federal Holiday,1,0
+2012,5,Federal Holiday,1,0
+2012,7,Federal Holiday,1,0
+2012,9,Federal Holiday,1,0
+2012,10,Federal Holiday,1,0
+2012,11,Federal Holiday,2,0
+2012,12,Federal Holiday,1,0
+2013,1,Federal Holiday,2,0
+2013,2,Federal Holiday,1,0
+2013,5,Federal Holiday,1,0
+2013,7,Federal Holiday,1,0
+2013,9,Federal Holiday,1,0
+2013,10,Federal Holiday,1,0
+2013,11,Federal Holiday,2,0
+2013,12,Federal Holiday,1,0
+2014,1,Federal Holiday,2,0
+2014,2,Federal Holiday,1,0
+2014,5,Federal Holiday,1,0
+2014,7,Federal Holiday,1,0
+2014,9,Federal Holiday,1,0
+2014,10,Federal Holiday,1,0
+2014,11,Federal Holiday,2,0
+2014,12,Federal Holiday,1,0
+2015,1,Federal Holiday,2,0
+2015,2,Federal Holiday,1,0
+2015,5,Federal Holiday,1,0
+2015,7,Federal Holiday,2,0
+2015,9,Federal Holiday,1,0
+2015,10,Federal Holiday,1,0
+2015,11,Federal Holiday,2,0
+2015,12,Federal Holiday,1,0
+2009,2,Event,0,1
+2009,4,Event,0,1
+2009,5,Event,0,1
+2009,6,Event,0,1
+2009,10,Event,0,2
+2009,12,Event,0,1
+2010,2,Event,0,1
+2010,4,Event,0,1
+2010,5,Event,0,1
+2010,6,Event,0,1
+2010,10,Event,0,1
+2010,12,Event,0,2
+2011,2,Event,0,1
+2011,4,Event,0,1
+2011,5,Event,0,1
+2011,6,Event,0,1
+2011,10,Event,0,1
+2011,12,Event,0,2
+2012,2,Event,0,1
+2012,4,Event,0,1
+2012,5,Event,0,1
+2012,6,Event,0,1
+2012,10,Event,0,1
+2012,11,Event,0,1
+2012,12,Event,0,2
+2013,2,Event,0,1
+2013,3,Event,0,1
+2013,5,Event,0,1
+2013,6,Event,0,1
+2013,10,Event,0,1
+2013,12,Event,0,2
+2014,2,Event,0,1
+2014,4,Event,0,2
+2014,5,Event,0,1
+2014,6,Event,0,1
+2014,10,Event,0,1
+2014,12,Event,0,2
+2015,2,Event,0,1
+2015,4,Event,0,2
+2015,5,Event,0,1
+2015,6,Event,0,1
+2015,10,Event,0,1
+2015,12,Event,0,3
